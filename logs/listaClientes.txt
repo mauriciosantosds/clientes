@@ -1,0 +1,14 @@
+2018-12-26 18:21:06 :: 
+2018-12-26 18:22:07 :: SELECT * FROM cliente  
+2018-12-26 18:22:37 :: SELECT * FROM cliente  
+2018-12-26 18:26:05 :: SELECT * FROM cliente  
+2018-12-26 20:34:41 :: SELECT * FROM cliente  
+2018-12-26 20:35:32 :: SELECT * FROM cliente  
+2018-12-26 20:36:30 :: SELECT * FROM cliente  
+2018-12-26 20:36:58 :: SELECT * FROM cliente  
+2018-12-26 20:38:03 :: SELECT * FROM cliente  
+2018-12-26 20:55:24 :: SELECT * FROM cliente  
+2018-12-26 20:57:25 :: SELECT * FROM cliente  
+2018-12-26 20:58:52 :: SELECT * FROM cliente  
+2018-12-26 20:59:45 :: SELECT * FROM cliente  
+2018-12-26 20:59:52 :: SELECT * FROM cliente  

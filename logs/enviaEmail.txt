@@ -1,0 +1,12 @@
+2018-12-26 17:28:55 :: erros
+2018-12-26 17:29:59 :: 1
+2018-12-26 17:48:23 :: 2
+2018-12-26 18:01:51 :: E-mail enviado
+2018-12-26 18:03:12 :: E-mail enviado
+2018-12-26 18:03:37 :: E-mail enviado
+2018-12-26 18:10:28 :: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2018-12-26 18:11:14 :: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2018-12-26 18:11:29 :: E-mail enviado
+2018-12-26 20:57:25 :: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2018-12-26 20:57:43 :: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2018-12-26 21:00:00 :: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
